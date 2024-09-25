@@ -28,7 +28,7 @@ This project implements a light therapy sequencer using PWM-controlled LEDs to s
 
 ### Installation
 1. Clone this repository:
-        git clone https://github.com/your-username/light-therapy-sequencer.git
+        git clone https://github.com/Phaena01/Smart-Light-Therapy-System.git
     
 2. Navigate into the project directory:
         cd light-therapy-sequencer
